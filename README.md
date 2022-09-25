@@ -94,3 +94,22 @@ At first when compiling and run the program you will able to see the out as to c
 
  6. Enter the number of candidates, and enter their datails and Logout from the admin pannel.
  
+ 
+ ### Student Voting 
+ 
+ 1. Choose the option for the student panel.
+ 
+ 2. Enter the proper Roll number as per the admin panel contents.
+ 
+ 3. Choose the candidates (voting).
+ 
+ 4. For the exit enter 0 and return.
+ 
+ ### Extra features
+ 
+ 1. Ban a user Id and stop some particular student.
+ 2. Delete the illegal votes.
+ 
+ 
+ 
+ #### If something spcl give a star ⭐.
